@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0-rc.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://dl.nestipy.com/v0.1.0-rc.1/nestipy_0.1.0-rc.1_windows_amd64.zip",
+            "bin": [
+                "nestipy.exe"
+            ],
+            "hash": "005f759ddc76ef0fa4bc13c62dbffa5fce048b7eece242cc4ba372cf189b4216"
+        },
+        "arm64": {
+            "url": "https://dl.nestipy.com/v0.1.0-rc.1/nestipy_0.1.0-rc.1_windows_arm64.zip",
+            "bin": [
+                "nestipy.exe"
+            ],
+            "hash": "ce0a21e5752cd700d81cb0c3077d83856c6e8f375a2e2398ea7f39aa9ef06e37"
+        }
+    },
+    "homepage": "https://nestipy.com",
+    "license": "Apache-2.0",
+    "description": "nestipy CLI"
+}
